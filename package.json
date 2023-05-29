@@ -1,0 +1,16 @@
+{
+  "name": "commandapplication",
+  "version": "1.0.0",
+  "description": "Application for performing different kinds of task from command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amar kumar",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
